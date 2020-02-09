@@ -1,0 +1,34 @@
+{
+    "pages": [
+        {
+            "title": "Sprawdź zysk",
+            "pagePath": "/sprawdz-zysk",
+            "template": "main",
+            "pageData": {
+                "labels": {
+                    "mainText": "To jest tekst głowny na stronie sprawdz zysk !"
+                }
+            }
+        },
+        {
+            "title": "Dlaczego aparthotel?",
+            "pagePath": "/dlaczego-aparthotel",
+            "template": "dummy",
+            "pageData": {
+                "labels": {
+                    "mainText": "To jest tekst głowny na stronie dlaczego aparthotel !"
+                }
+            }
+        },
+        {
+            "title": "Obiekt",
+            "pagePath": "/obiekt",
+            "template": "dummy",
+            "pageData": {
+                "labels": {
+                    "mainText": "To jest tekst głowny na stronie obiekt !"
+                }
+            }
+        }
+    ]
+}
